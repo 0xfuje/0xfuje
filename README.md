@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @web3wolf
-- 🌱 I’m currently learning Typescript, Redux, Three.js and Rust!
+- 🌱 I’m currently learning Typescript, Redux, GraphQL and Rust!
 - 💞️ I’m looking to collaborate on crypto projects!
 - 📫 Reach me via email: web3wolf3@gmail.com
 
