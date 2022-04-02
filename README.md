@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @web3wolf
+- 👋 Hi, I’m @0xfuje
 - ☕ I work on [CoinCoffee](https://github.com/web3wolf/coincoffee)
 - 📖 I'm currently learning GraphQL and writing better Typescript
 <!---
