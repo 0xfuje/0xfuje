@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0xfuje
-- 💻 I'm a front-end dev who's passionate about coding and web3
+- 💻 I'm a frontend + web3 dev who's passionate about coding
 - 📖 Currently learning Solidity and web3 stuff + participating in hackathons
 <!---
 web3wolf/web3wolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
